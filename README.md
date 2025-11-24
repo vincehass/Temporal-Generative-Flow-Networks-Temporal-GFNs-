@@ -5,6 +5,22 @@
 
 This repository contains the official implementation of **Temporal Generative Flow Networks** for probabilistic time series forecasting, as presented in "Adaptive Quantization in Generative Flow Networks for Probabilistic Sequential Prediction" (Hassen et al., 2025).
 
+---
+
+## 📱 Quick Access
+
+<div align="center">
+
+**Scan with your phone to access this repository:**
+
+<img src="repo_qr_code.png" alt="Repository QR Code" width="200"/>
+
+_Perfect for presentations, papers, and posters!_
+
+</div>
+
+---
+
 ## 1. Abstract & Motivation
 
 Standard Deep Learning forecasting models (Transformers, RNNs) often struggle to generate calibrated probability distributions over continuous future values. **Temporal GFNs** frame forecasting as a constructive process: building a forecast trajectory $\tau$ step-by-step.
