@@ -62,3 +62,5 @@ data/
 repo_qr_code.png
 repo_qr_code_large.png
 *_qr_code*.png
+QR_CODE_INFO.md
+generate_qr_code.py
