@@ -7,17 +7,22 @@ This repository contains the official implementation of **Temporal Generative Fl
 
 ---
 
-## 📱 Quick Access
+## 📱 Quick Access QR Code
 
-<div align="center">
+Generate a QR code to easily share this repository:
 
-**Scan with your phone to access this repository:**
+```bash
+# Generate QR codes
+python generate_qr_code.py
 
-<img src="repo_qr_code.png" alt="Repository QR Code" width="200"/>
+# Output:
+# - repo_qr_code.png (standard size)
+# - repo_qr_code_large.png (high-res for printing)
+```
+
+📖 See [QR_CODE_INFO.md](QR_CODE_INFO.md) for detailed usage instructions.
 
 _Perfect for presentations, papers, and posters!_
-
-</div>
 
 ---
 
